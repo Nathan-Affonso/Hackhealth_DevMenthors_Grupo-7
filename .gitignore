@@ -1,0 +1,12 @@
+**/bin/
+**/obj/
+frontend/node_modules/
+frontend/dist/
+*.tsbuildinfo
+.vs/
+.idea/
+.vscode/
+*.user
+*.suo
+*.log
+.env
