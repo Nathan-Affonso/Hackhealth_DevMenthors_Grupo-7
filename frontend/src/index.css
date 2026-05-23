@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background: #f6f8fb;
+  color: #16202a;
+}
+
+.gm-style .gm-style-iw-c {
+  border-radius: 8px;
+}
